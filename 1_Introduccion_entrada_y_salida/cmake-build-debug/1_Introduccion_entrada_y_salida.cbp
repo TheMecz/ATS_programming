@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="1_Introduccion_entrada_y_salida"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="msvc8"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/1_Introduccion_entrada_y_salida/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\1_Introduccion_entrada_y_salida\cmake-build-debug\Makefile VERBOSE=1 all"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\1_Introduccion_entrada_y_salida\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\1_Introduccion_entrada_y_salida\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\1_Introduccion_entrada_y_salida\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1_Introduccion_entrada_y_salida">
+				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/1_Introduccion_entrada_y_salida/cmake-build-debug/1_Introduccion_entrada_y_salida.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/1_Introduccion_entrada_y_salida/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\1_Introduccion_entrada_y_salida\cmake-build-debug\Makefile VERBOSE=1 1_Introduccion_entrada_y_salida"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\1_Introduccion_entrada_y_salida\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\1_Introduccion_entrada_y_salida\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\1_Introduccion_entrada_y_salida\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1_Introduccion_entrada_y_salida/fast">
+				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/1_Introduccion_entrada_y_salida/cmake-build-debug/1_Introduccion_entrada_y_salida.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/1_Introduccion_entrada_y_salida/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\1_Introduccion_entrada_y_salida\cmake-build-debug\Makefile VERBOSE=1 1_Introduccion_entrada_y_salida/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\1_Introduccion_entrada_y_salida\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\1_Introduccion_entrada_y_salida\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\1_Introduccion_entrada_y_salida\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1_Introduccion_entrada_y_salida_2">
+				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/1_Introduccion_entrada_y_salida/cmake-build-debug/1_Introduccion_entrada_y_salida_2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/1_Introduccion_entrada_y_salida/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\1_Introduccion_entrada_y_salida\cmake-build-debug\Makefile VERBOSE=1 1_Introduccion_entrada_y_salida_2"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\1_Introduccion_entrada_y_salida\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\1_Introduccion_entrada_y_salida\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\1_Introduccion_entrada_y_salida\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1_Introduccion_entrada_y_salida_2/fast">
+				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/1_Introduccion_entrada_y_salida/cmake-build-debug/1_Introduccion_entrada_y_salida_2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/1_Introduccion_entrada_y_salida/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\1_Introduccion_entrada_y_salida\cmake-build-debug\Makefile VERBOSE=1 1_Introduccion_entrada_y_salida_2/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\1_Introduccion_entrada_y_salida\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\1_Introduccion_entrada_y_salida\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\1_Introduccion_entrada_y_salida\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/1_Introduccion_entrada_y_salida/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\1_Introduccion_entrada_y_salida\cmake-build-debug\Makefile VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\1_Introduccion_entrada_y_salida\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\1_Introduccion_entrada_y_salida\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\1_Introduccion_entrada_y_salida\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1_Introduccion_entrada_y_salida_3">
+				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/1_Introduccion_entrada_y_salida/cmake-build-debug/1_Introduccion_entrada_y_salida_3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/1_Introduccion_entrada_y_salida/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\1_Introduccion_entrada_y_salida\cmake-build-debug\Makefile VERBOSE=1 1_Introduccion_entrada_y_salida_3"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\1_Introduccion_entrada_y_salida\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\1_Introduccion_entrada_y_salida\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\1_Introduccion_entrada_y_salida\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1_Introduccion_entrada_y_salida_3/fast">
+				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/1_Introduccion_entrada_y_salida/cmake-build-debug/1_Introduccion_entrada_y_salida_3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/1_Introduccion_entrada_y_salida/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\1_Introduccion_entrada_y_salida\cmake-build-debug\Makefile VERBOSE=1 1_Introduccion_entrada_y_salida_3/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\1_Introduccion_entrada_y_salida\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\1_Introduccion_entrada_y_salida\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\1_Introduccion_entrada_y_salida\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/1_Introduccion_entrada_y_salida/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\1_Introduccion_entrada_y_salida\cmake-build-debug\Makefile VERBOSE=1 edit_cache"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\1_Introduccion_entrada_y_salida\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\1_Introduccion_entrada_y_salida\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\1_Introduccion_entrada_y_salida\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1_Introduccion_entrada_y_salida_4">
+				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/1_Introduccion_entrada_y_salida/cmake-build-debug/1_Introduccion_entrada_y_salida_4.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/1_Introduccion_entrada_y_salida/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\1_Introduccion_entrada_y_salida\cmake-build-debug\Makefile VERBOSE=1 1_Introduccion_entrada_y_salida_4"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\1_Introduccion_entrada_y_salida\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\1_Introduccion_entrada_y_salida\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\1_Introduccion_entrada_y_salida\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1_Introduccion_entrada_y_salida_4/fast">
+				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/1_Introduccion_entrada_y_salida/cmake-build-debug/1_Introduccion_entrada_y_salida_4.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/1_Introduccion_entrada_y_salida/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\1_Introduccion_entrada_y_salida\cmake-build-debug\Makefile VERBOSE=1 1_Introduccion_entrada_y_salida_4/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\1_Introduccion_entrada_y_salida\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\1_Introduccion_entrada_y_salida\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\1_Introduccion_entrada_y_salida\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/maxpo/Documentos/Program/Udemy/C++/1_Introduccion_entrada_y_salida/Ejercicio_1.cpp">
+			<Option target="1_Introduccion_entrada_y_salida"/>
+		</Unit>
+		<Unit filename="C:/Users/maxpo/Documentos/Program/Udemy/C++/1_Introduccion_entrada_y_salida/Ejercicio_2.cpp">
+			<Option target="1_Introduccion_entrada_y_salida_2"/>
+		</Unit>
+		<Unit filename="C:/Users/maxpo/Documentos/Program/Udemy/C++/1_Introduccion_entrada_y_salida/Ejercicio_3.cpp">
+			<Option target="1_Introduccion_entrada_y_salida_3"/>
+		</Unit>
+		<Unit filename="C:/Users/maxpo/Documentos/Program/Udemy/C++/1_Introduccion_entrada_y_salida/Ejercicio_4.cpp">
+			<Option target="1_Introduccion_entrada_y_salida_4"/>
+		</Unit>
+		<Unit filename="C:/Users/maxpo/Documentos/Program/Udemy/C++/1_Introduccion_entrada_y_salida/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

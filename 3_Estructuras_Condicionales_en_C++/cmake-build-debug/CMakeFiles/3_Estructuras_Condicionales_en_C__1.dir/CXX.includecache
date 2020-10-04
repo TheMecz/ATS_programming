@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+B:/Max/Documentos/Program/Udemy/C++/3_Estructuras_Condicionales_en_C++/Ejercicio_1.cpp
+iostream
+-
+

@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/Users/maxpo/Documentos/Program/Udemy/C++/1_Introduccion_entrada_y_salida/cmake-build-debug/CMakeFiles/1_Introduccion_entrada_y_salida_3.dir/embed.manifest"

@@ -1,0 +1,3 @@
+C:/Users/maxpo/Documentos/Program/Udemy/C++/10_Estructuras(struct)_en_C++/cmake-build-debug/CMakeFiles/10_Estructuras_struct__en_C__.dir
+C:/Users/maxpo/Documentos/Program/Udemy/C++/10_Estructuras(struct)_en_C++/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/maxpo/Documentos/Program/Udemy/C++/10_Estructuras(struct)_en_C++/cmake-build-debug/CMakeFiles/rebuild_cache.dir

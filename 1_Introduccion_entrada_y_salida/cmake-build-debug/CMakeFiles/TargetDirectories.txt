@@ -1,0 +1,6 @@
+C:/Users/maxpo/Documentos/Program/Udemy/C++/1_Introduccion_entrada_y_salida/cmake-build-debug/CMakeFiles/1_Introduccion_entrada_y_salida.dir
+C:/Users/maxpo/Documentos/Program/Udemy/C++/1_Introduccion_entrada_y_salida/cmake-build-debug/CMakeFiles/1_Introduccion_entrada_y_salida_2.dir
+C:/Users/maxpo/Documentos/Program/Udemy/C++/1_Introduccion_entrada_y_salida/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/maxpo/Documentos/Program/Udemy/C++/1_Introduccion_entrada_y_salida/cmake-build-debug/CMakeFiles/1_Introduccion_entrada_y_salida_3.dir
+C:/Users/maxpo/Documentos/Program/Udemy/C++/1_Introduccion_entrada_y_salida/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/maxpo/Documentos/Program/Udemy/C++/1_Introduccion_entrada_y_salida/cmake-build-debug/CMakeFiles/1_Introduccion_entrada_y_salida_4.dir

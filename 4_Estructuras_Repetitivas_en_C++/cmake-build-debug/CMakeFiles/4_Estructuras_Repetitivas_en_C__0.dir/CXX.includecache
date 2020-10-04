@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+B:/Max/Documentos/Program/Udemy/C++/4_Estructuras_Repetitivas_en_C++/Sentencia_While.cpp
+iostream
+-
+conio.h
+-
+

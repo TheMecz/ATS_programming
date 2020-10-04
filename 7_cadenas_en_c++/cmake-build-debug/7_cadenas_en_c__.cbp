@@ -1,0 +1,927 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="7_cadenas_en_c__"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="msvc8"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/7_cadenas_en_c++/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 all"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="7_cadenas_en_c___5">
+				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/7_cadenas_en_c++/cmake-build-debug/7_cadenas_en_c___5.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/7_cadenas_en_c++/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 7_cadenas_en_c___5"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="7_cadenas_en_c___5/fast">
+				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/7_cadenas_en_c++/cmake-build-debug/7_cadenas_en_c___5.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/7_cadenas_en_c++/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 7_cadenas_en_c___5/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="7_cadenas_en_c__">
+				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/7_cadenas_en_c++/cmake-build-debug/7_cadenas_en_c__.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/7_cadenas_en_c++/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 7_cadenas_en_c__"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="7_cadenas_en_c__/fast">
+				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/7_cadenas_en_c++/cmake-build-debug/7_cadenas_en_c__.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/7_cadenas_en_c++/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 7_cadenas_en_c__/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="7_cadenas_en_c___2">
+				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/7_cadenas_en_c++/cmake-build-debug/7_cadenas_en_c___2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/7_cadenas_en_c++/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 7_cadenas_en_c___2"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="7_cadenas_en_c___2/fast">
+				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/7_cadenas_en_c++/cmake-build-debug/7_cadenas_en_c___2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/7_cadenas_en_c++/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 7_cadenas_en_c___2/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="7_cadenas_en_c___3">
+				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/7_cadenas_en_c++/cmake-build-debug/7_cadenas_en_c___3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/7_cadenas_en_c++/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 7_cadenas_en_c___3"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="7_cadenas_en_c___3/fast">
+				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/7_cadenas_en_c++/cmake-build-debug/7_cadenas_en_c___3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/7_cadenas_en_c++/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 7_cadenas_en_c___3/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="7_cadenas_en_c___4">
+				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/7_cadenas_en_c++/cmake-build-debug/7_cadenas_en_c___4.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/7_cadenas_en_c++/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 7_cadenas_en_c___4"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="7_cadenas_en_c___4/fast">
+				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/7_cadenas_en_c++/cmake-build-debug/7_cadenas_en_c___4.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/7_cadenas_en_c++/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 7_cadenas_en_c___4/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="7_cadenas_en_c___6">
+				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/7_cadenas_en_c++/cmake-build-debug/7_cadenas_en_c___6.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/7_cadenas_en_c++/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 7_cadenas_en_c___6"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="7_cadenas_en_c___6/fast">
+				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/7_cadenas_en_c++/cmake-build-debug/7_cadenas_en_c___6.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/7_cadenas_en_c++/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 7_cadenas_en_c___6/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="7_cadenas_en_c___7">
+				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/7_cadenas_en_c++/cmake-build-debug/7_cadenas_en_c___7.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/7_cadenas_en_c++/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 7_cadenas_en_c___7"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="7_cadenas_en_c___7/fast">
+				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/7_cadenas_en_c++/cmake-build-debug/7_cadenas_en_c___7.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/7_cadenas_en_c++/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 7_cadenas_en_c___7/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="7_cadenas_en_c___8">
+				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/7_cadenas_en_c++/cmake-build-debug/7_cadenas_en_c___8.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/7_cadenas_en_c++/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 7_cadenas_en_c___8"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="7_cadenas_en_c___8/fast">
+				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/7_cadenas_en_c++/cmake-build-debug/7_cadenas_en_c___8.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/7_cadenas_en_c++/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 7_cadenas_en_c___8/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="7_cadenas_en_c___9">
+				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/7_cadenas_en_c++/cmake-build-debug/7_cadenas_en_c___9.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/7_cadenas_en_c++/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 7_cadenas_en_c___9"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="7_cadenas_en_c___9/fast">
+				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/7_cadenas_en_c++/cmake-build-debug/7_cadenas_en_c___9.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/7_cadenas_en_c++/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 7_cadenas_en_c___9/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/7_cadenas_en_c++/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 edit_cache"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="7_cadenas_en_c___10">
+				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/7_cadenas_en_c++/cmake-build-debug/7_cadenas_en_c___10.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/7_cadenas_en_c++/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 7_cadenas_en_c___10"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="7_cadenas_en_c___10/fast">
+				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/7_cadenas_en_c++/cmake-build-debug/7_cadenas_en_c___10.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/7_cadenas_en_c++/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 7_cadenas_en_c___10/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="7_cadenas_en_c___11">
+				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/7_cadenas_en_c++/cmake-build-debug/7_cadenas_en_c___11.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/7_cadenas_en_c++/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 7_cadenas_en_c___11"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="7_cadenas_en_c___11/fast">
+				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/7_cadenas_en_c++/cmake-build-debug/7_cadenas_en_c___11.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/7_cadenas_en_c++/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 7_cadenas_en_c___11/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="7_cadenas_en_c___12">
+				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/7_cadenas_en_c++/cmake-build-debug/7_cadenas_en_c___12.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/7_cadenas_en_c++/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 7_cadenas_en_c___12"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="7_cadenas_en_c___12/fast">
+				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/7_cadenas_en_c++/cmake-build-debug/7_cadenas_en_c___12.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/7_cadenas_en_c++/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 7_cadenas_en_c___12/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="7_cadenas_en_c___13">
+				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/7_cadenas_en_c++/cmake-build-debug/7_cadenas_en_c___13.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/7_cadenas_en_c++/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 7_cadenas_en_c___13"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="7_cadenas_en_c___13/fast">
+				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/7_cadenas_en_c++/cmake-build-debug/7_cadenas_en_c___13.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/7_cadenas_en_c++/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 7_cadenas_en_c___13/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="7_cadenas_en_c___14">
+				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/7_cadenas_en_c++/cmake-build-debug/7_cadenas_en_c___14.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/7_cadenas_en_c++/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 7_cadenas_en_c___14"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="7_cadenas_en_c___14/fast">
+				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/7_cadenas_en_c++/cmake-build-debug/7_cadenas_en_c___14.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/7_cadenas_en_c++/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 7_cadenas_en_c___14/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="7_cadenas_en_c___15">
+				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/7_cadenas_en_c++/cmake-build-debug/7_cadenas_en_c___15.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/7_cadenas_en_c++/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 7_cadenas_en_c___15"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="7_cadenas_en_c___15/fast">
+				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/7_cadenas_en_c++/cmake-build-debug/7_cadenas_en_c___15.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/7_cadenas_en_c++/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 7_cadenas_en_c___15/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="7_cadenas_en_c___16">
+				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/7_cadenas_en_c++/cmake-build-debug/7_cadenas_en_c___16.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/7_cadenas_en_c++/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 7_cadenas_en_c___16"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="7_cadenas_en_c___16/fast">
+				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/7_cadenas_en_c++/cmake-build-debug/7_cadenas_en_c___16.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/7_cadenas_en_c++/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 7_cadenas_en_c___16/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="7_cadenas_en_c___17">
+				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/7_cadenas_en_c++/cmake-build-debug/7_cadenas_en_c___17.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/7_cadenas_en_c++/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 7_cadenas_en_c___17"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="7_cadenas_en_c___17/fast">
+				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/7_cadenas_en_c++/cmake-build-debug/7_cadenas_en_c___17.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/7_cadenas_en_c++/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 7_cadenas_en_c___17/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="7_cadenas_en_c___18">
+				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/7_cadenas_en_c++/cmake-build-debug/7_cadenas_en_c___18.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/7_cadenas_en_c++/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 7_cadenas_en_c___18"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="7_cadenas_en_c___18/fast">
+				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/7_cadenas_en_c++/cmake-build-debug/7_cadenas_en_c___18.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/7_cadenas_en_c++/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 7_cadenas_en_c___18/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/7_cadenas_en_c++/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\7_cadenas_en_c++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/maxpo/Documentos/Program/Udemy/C++/7_cadenas_en_c++/Comparar_cadenas.cpp">
+			<Option target="7_cadenas_en_c___6"/>
+		</Unit>
+		<Unit filename="C:/Users/maxpo/Documentos/Program/Udemy/C++/7_cadenas_en_c++/Concatenar_una_cadena.cpp">
+			<Option target="7_cadenas_en_c___8"/>
+		</Unit>
+		<Unit filename="C:/Users/maxpo/Documentos/Program/Udemy/C++/7_cadenas_en_c++/Copiar_una_cadena_a_otra.cpp">
+			<Option target="7_cadenas_en_c___4"/>
+		</Unit>
+		<Unit filename="C:/Users/maxpo/Documentos/Program/Udemy/C++/7_cadenas_en_c++/Ejercicio_1.cpp">
+			<Option target="7_cadenas_en_c___3"/>
+		</Unit>
+		<Unit filename="C:/Users/maxpo/Documentos/Program/Udemy/C++/7_cadenas_en_c++/Ejercicio_2.cpp">
+			<Option target="7_cadenas_en_c___5"/>
+		</Unit>
+		<Unit filename="C:/Users/maxpo/Documentos/Program/Udemy/C++/7_cadenas_en_c++/Ejercicio_3.cpp">
+			<Option target="7_cadenas_en_c___7"/>
+		</Unit>
+		<Unit filename="C:/Users/maxpo/Documentos/Program/Udemy/C++/7_cadenas_en_c++/Ejercicio_4.cpp">
+			<Option target="7_cadenas_en_c___9"/>
+		</Unit>
+		<Unit filename="C:/Users/maxpo/Documentos/Program/Udemy/C++/7_cadenas_en_c++/Ejercicio_5.cpp">
+			<Option target="7_cadenas_en_c___11"/>
+		</Unit>
+		<Unit filename="C:/Users/maxpo/Documentos/Program/Udemy/C++/7_cadenas_en_c++/Ejercicio_6.cpp">
+			<Option target="7_cadenas_en_c___13"/>
+		</Unit>
+		<Unit filename="C:/Users/maxpo/Documentos/Program/Udemy/C++/7_cadenas_en_c++/Ejercicio_7.cpp">
+			<Option target="7_cadenas_en_c___15"/>
+		</Unit>
+		<Unit filename="C:/Users/maxpo/Documentos/Program/Udemy/C++/7_cadenas_en_c++/Ejercicio_8.cpp">
+			<Option target="7_cadenas_en_c___17"/>
+		</Unit>
+		<Unit filename="C:/Users/maxpo/Documentos/Program/Udemy/C++/7_cadenas_en_c++/Ejercicio_9.cpp">
+			<Option target="7_cadenas_en_c___18"/>
+		</Unit>
+		<Unit filename="C:/Users/maxpo/Documentos/Program/Udemy/C++/7_cadenas_en_c++/Invertir_una_cadena.cpp">
+			<Option target="7_cadenas_en_c___10"/>
+		</Unit>
+		<Unit filename="C:/Users/maxpo/Documentos/Program/Udemy/C++/7_cadenas_en_c++/Longitud_de_una_cadena.cpp">
+			<Option target="7_cadenas_en_c___2"/>
+		</Unit>
+		<Unit filename="C:/Users/maxpo/Documentos/Program/Udemy/C++/7_cadenas_en_c++/Palabra_a_mayuscula.cpp">
+			<Option target="7_cadenas_en_c___12"/>
+		</Unit>
+		<Unit filename="C:/Users/maxpo/Documentos/Program/Udemy/C++/7_cadenas_en_c++/Pasar_una_palabra_a_minusculas.cpp">
+			<Option target="7_cadenas_en_c___14"/>
+		</Unit>
+		<Unit filename="C:/Users/maxpo/Documentos/Program/Udemy/C++/7_cadenas_en_c++/Transformar_una_cadena_a_numeros.cpp">
+			<Option target="7_cadenas_en_c___16"/>
+		</Unit>
+		<Unit filename="C:/Users/maxpo/Documentos/Program/Udemy/C++/7_cadenas_en_c++/main.cpp">
+			<Option target="7_cadenas_en_c__"/>
+		</Unit>
+		<Unit filename="C:/Users/maxpo/Documentos/Program/Udemy/C++/7_cadenas_en_c++/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

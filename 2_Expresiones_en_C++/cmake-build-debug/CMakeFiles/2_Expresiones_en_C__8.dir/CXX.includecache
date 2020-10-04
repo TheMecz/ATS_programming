@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+B:/Max/Documentos/Program/Udemy/C++/2_Expresiones_en_C++/Ejercicio_8.cpp
+iostream
+-
+cmath
+-
+

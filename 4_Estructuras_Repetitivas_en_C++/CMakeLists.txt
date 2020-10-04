@@ -1,0 +1,28 @@
+cmake_minimum_required(VERSION 3.17)
+project(4_Estructuras_Repetitivas_en_C__)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(4_Estructuras_Repetitivas_en_C__0 Sentencia_While.cpp)
+add_executable(4_Estructuras_Repetitivas_en_C__00 Sentencia_Do_While.cpp)
+add_executable(4_Estructuras_Repetitivas_en_C__000 Sentencia_For.cpp)
+add_executable(4_Estructuras_Repetitivas_en_C__1 Ejercicio_1.cpp)
+add_executable(4_Estructuras_Repetitivas_en_C__2 Ejercicio_2.cpp)
+add_executable(4_Estructuras_Repetitivas_en_C__3 Ejercicio_3.cpp)
+add_executable(4_Estructuras_Repetitivas_en_C__4 Ejercicio_4.cpp)
+add_executable(4_Estructuras_Repetitivas_en_C__5 Ejercicio_5.cpp)
+add_executable(4_Estructuras_Repetitivas_en_C__6 Ejercicio_6.cpp)
+add_executable(4_Estructuras_Repetitivas_en_C__7 Ejercicio_7.cpp)
+add_executable(4_Estructuras_Repetitivas_en_C__8 Ejercicio_8.cpp)
+add_executable(4_Estructuras_Repetitivas_en_C__9 Ejercicio_9.cpp)
+add_executable(4_Estructuras_Repetitivas_en_C__10 Ejercicio_10.cpp)
+add_executable(4_Estructuras_Repetitivas_en_C__11 Ejercicio_11.cpp)
+add_executable(4_Estructuras_Repetitivas_en_C__12 Ejercicio_12.cpp)
+add_executable(4_Estructuras_Repetitivas_en_C__13 Ejercicio_13.cpp)
+add_executable(4_Estructuras_Repetitivas_en_C__14 Ejercicio_14.cpp)
+add_executable(4_Estructuras_Repetitivas_en_C__15 Ejercicio_15.cpp)
+add_executable(4_Estructuras_Repetitivas_en_C__16 Ejercicio_16.cpp)
+
+
+
+

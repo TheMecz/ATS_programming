@@ -1,0 +1,10 @@
+C:/Users/maxpo/Documentos/Program/Udemy/C++/6_Matrices_o_tablas_en_C++/cmake-build-debug/CMakeFiles/6_Matrices_o_tablas_en_C__1.dir
+C:/Users/maxpo/Documentos/Program/Udemy/C++/6_Matrices_o_tablas_en_C++/cmake-build-debug/CMakeFiles/6_Matrices_o_tablas_en_C__2.dir
+C:/Users/maxpo/Documentos/Program/Udemy/C++/6_Matrices_o_tablas_en_C++/cmake-build-debug/CMakeFiles/6_Matrices_o_tablas_en_C__3.dir
+C:/Users/maxpo/Documentos/Program/Udemy/C++/6_Matrices_o_tablas_en_C++/cmake-build-debug/CMakeFiles/6_Matrices_o_tablas_en_C__4.dir
+C:/Users/maxpo/Documentos/Program/Udemy/C++/6_Matrices_o_tablas_en_C++/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/maxpo/Documentos/Program/Udemy/C++/6_Matrices_o_tablas_en_C++/cmake-build-debug/CMakeFiles/6_Matrices_o_tablas_en_C__5.dir
+C:/Users/maxpo/Documentos/Program/Udemy/C++/6_Matrices_o_tablas_en_C++/cmake-build-debug/CMakeFiles/6_Matrices_o_tablas_en_C__6.dir
+C:/Users/maxpo/Documentos/Program/Udemy/C++/6_Matrices_o_tablas_en_C++/cmake-build-debug/CMakeFiles/6_Matrices_o_tablas_en_C__7.dir
+C:/Users/maxpo/Documentos/Program/Udemy/C++/6_Matrices_o_tablas_en_C++/cmake-build-debug/CMakeFiles/6_Matrices_o_tablas_en_C__8.dir
+C:/Users/maxpo/Documentos/Program/Udemy/C++/6_Matrices_o_tablas_en_C++/cmake-build-debug/CMakeFiles/edit_cache.dir

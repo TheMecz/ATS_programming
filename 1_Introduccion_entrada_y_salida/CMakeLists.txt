@@ -1,0 +1,9 @@
+cmake_minimum_required(VERSION 3.16)
+project(1_Introduccion_entrada_y_salida)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(1_Introduccion_entrada_y_salida Ejercicio_1.cpp)
+add_executable(1_Introduccion_entrada_y_salida_2 Ejercicio_2.cpp)
+add_executable(1_Introduccion_entrada_y_salida_3 Ejercicio_3.cpp)
+add_executable(1_Introduccion_entrada_y_salida_4 Ejercicio_4.cpp)

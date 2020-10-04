@@ -1,0 +1,10 @@
+cmake_minimum_required(VERSION 3.14)
+project(8_Metodos_de_Ordenamiento_en_C__)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(8_Metodos_de_Ordenamiento_en_C__ Metodo_Burbuja.cpp )
+add_executable(8_Metodos_de_Ordenamiento_en_C__2 Metodo_QuickSort.cpp)
+add_executable(8_Metodos_de_Ordenamiento_en_C__3 Ordenamiento_por_Insercion.cpp )
+add_executable(8_Metodos_de_Ordenamiento_en_C__4 Ordenamiento_por_Seleccion.cpp )
+add_executable(8_Metodos_de_Ordenamiento_en_C__5 Ordernamiento_Shell.cpp )
