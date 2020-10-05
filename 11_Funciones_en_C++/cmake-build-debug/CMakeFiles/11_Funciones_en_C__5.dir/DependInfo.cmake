@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/maxpo/Documentos/Program/Udemy/C++/11_Funciones_en_C++/Ejercicio_5.cpp" "C:/Users/maxpo/Documentos/Program/Udemy/C++/11_Funciones_en_C++/cmake-build-debug/CMakeFiles/11_Funciones_en_C__5.dir/Ejercicio_5.cpp.obj"
+  "C:/Users/maxpo/Documentos/Program/Udemy/C++/ATS_programming/11_Funciones_en_C++/Ejercicio_5.cpp" "C:/Users/maxpo/Documentos/Program/Udemy/C++/ATS_programming/11_Funciones_en_C++/cmake-build-debug/CMakeFiles/11_Funciones_en_C__5.dir/Ejercicio_5.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "MSVC")
 

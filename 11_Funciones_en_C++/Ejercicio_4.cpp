@@ -1,4 +1,5 @@
-/*Ejercicio 4: Escribe un programa en C++ que devuelva la parte fraccionaria de cualquier número introducido por el ususario. Por ejemplo, si se introduce el número 256.879, debería desplegarse el número 0.879.*/
+/*Ejercicio 4: Escribe un programa en C++ que devuelva la parte fraccionaria de cualquier número introducido
+ * por el ususario. Por ejemplo, si se introduce el número 256.879, debería desplegarse el número 0.879.*/
 
 #include<iostream>
 #include <vector>

@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 3.17)
+project(9_Busqueda_en_un_Arreglo)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(9_Busqueda_en_un_Arreglo_1 Busqueda_Binaria.cpp)
+add_executable(9_Busqueda_en_un_Arreglo_2 Busqueda_Secuencial.cpp)
