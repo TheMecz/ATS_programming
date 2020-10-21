@@ -52,10 +52,10 @@ RM = "C:\Program Files\JetBrains\CLion 2020.2.3\bin\cmake\win\bin\cmake.exe" -E 
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++
+CMAKE_SOURCE_DIR = C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug
+CMAKE_BINARY_DIR = C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -84,9 +84,9 @@ rebuild_cache\fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\CMakeFiles C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\CMakeFiles\progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\CMakeFiles C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\CMakeFiles\progress.marks
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 /nologo -$(MAKEFLAGS) all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -361,32 +361,32 @@ depend:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\12_Punteros_en_C__7.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\12_Punteros_en_C__7.dir\build
 .PHONY : 12_Punteros_en_C__7\fast
 
-Asignacion_dinamica_de_arreglo.obj: Asignacion_dinamica_de_arreglo.cpp.obj
+Arreglos_dinamicos.obj: Arreglos_dinamicos.cpp.obj
 
-.PHONY : Asignacion_dinamica_de_arreglo.obj
+.PHONY : Arreglos_dinamicos.obj
 
 # target to build an object file
-Asignacion_dinamica_de_arreglo.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\12_Punteros_en_C__001.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\12_Punteros_en_C__001.dir\Asignacion_dinamica_de_arreglo.cpp.obj
-.PHONY : Asignacion_dinamica_de_arreglo.cpp.obj
+Arreglos_dinamicos.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\12_Punteros_en_C__001.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\12_Punteros_en_C__001.dir\Arreglos_dinamicos.cpp.obj
+.PHONY : Arreglos_dinamicos.cpp.obj
 
-Asignacion_dinamica_de_arreglo.i: Asignacion_dinamica_de_arreglo.cpp.i
+Arreglos_dinamicos.i: Arreglos_dinamicos.cpp.i
 
-.PHONY : Asignacion_dinamica_de_arreglo.i
+.PHONY : Arreglos_dinamicos.i
 
 # target to preprocess a source file
-Asignacion_dinamica_de_arreglo.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\12_Punteros_en_C__001.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\12_Punteros_en_C__001.dir\Asignacion_dinamica_de_arreglo.cpp.i
-.PHONY : Asignacion_dinamica_de_arreglo.cpp.i
+Arreglos_dinamicos.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\12_Punteros_en_C__001.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\12_Punteros_en_C__001.dir\Arreglos_dinamicos.cpp.i
+.PHONY : Arreglos_dinamicos.cpp.i
 
-Asignacion_dinamica_de_arreglo.s: Asignacion_dinamica_de_arreglo.cpp.s
+Arreglos_dinamicos.s: Arreglos_dinamicos.cpp.s
 
-.PHONY : Asignacion_dinamica_de_arreglo.s
+.PHONY : Arreglos_dinamicos.s
 
 # target to generate assembly for a file
-Asignacion_dinamica_de_arreglo.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\12_Punteros_en_C__001.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\12_Punteros_en_C__001.dir\Asignacion_dinamica_de_arreglo.cpp.s
-.PHONY : Asignacion_dinamica_de_arreglo.cpp.s
+Arreglos_dinamicos.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\12_Punteros_en_C__001.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\12_Punteros_en_C__001.dir\Arreglos_dinamicos.cpp.s
+.PHONY : Arreglos_dinamicos.cpp.s
 
 Correspondencia_entre_arrays_y_punteros.obj: Correspondencia_entre_arrays_y_punteros.cpp.obj
 
@@ -901,9 +901,9 @@ help:
 	@echo ... 12_Punteros_en_C__7
 	@echo ... 12_Punteros_en_C__8
 	@echo ... 12_Punteros_en_C__9
-	@echo ... Asignacion_dinamica_de_arreglo.obj
-	@echo ... Asignacion_dinamica_de_arreglo.i
-	@echo ... Asignacion_dinamica_de_arreglo.s
+	@echo ... Arreglos_dinamicos.obj
+	@echo ... Arreglos_dinamicos.i
+	@echo ... Arreglos_dinamicos.s
 	@echo ... Correspondencia_entre_arrays_y_punteros.obj
 	@echo ... Correspondencia_entre_arrays_y_punteros.i
 	@echo ... Correspondencia_entre_arrays_y_punteros.s

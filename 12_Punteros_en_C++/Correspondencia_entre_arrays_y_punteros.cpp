@@ -1,35 +1,23 @@
 //Correspondencia entre arrays y punteros
 
 #include <iostream>
-#include <vector>
-#include <cmath>
-#include <cstdlib>
-#include <ctime>
-#include <cstring>
 
 using namespace std;
 
-typedef int type_entero;
-typedef float type_decimal;
-typedef double type_doble;
-typedef char type_caracter;
+int main() {
 
+    int numeros[] = {1,2,3,4,5};
+    int *ptr_numeros;
+    //ptr_numeros = &numeros[0];
+    ptr_numeros = numeros;
 
+    for(int i=0; i<5; i++){
+        cout<<"Elemento del vector ["<<i<<"]: "<<*ptr_numeros++<<endl;
+    }
 
-type_entero main(){
+    for(int i=0; i<5; i++){
+        cout<<"Posición de memoria "<<numeros[i]<<" es: "<<ptr_numeros++<<endl;
+    }
 
-  type_entero numero[] = {1,2,3,4,5};
-  type_entero *dir_numero;
-
-  dir_numero = numero;
-
-  for(size_t i=0; i<5; i++){
-    cout<<"Elementos del vector ["<<i<<"]: "<<*dir_numero++<<endl;
-  }
-  for(size_t i=0; i<5; i++){
-    cout<<"Posicion de memoria "<<numero[i]<<" es: "<<dir_numero++<<endl;
-  }
-
-  return 0;
+    return 0;
 }
-

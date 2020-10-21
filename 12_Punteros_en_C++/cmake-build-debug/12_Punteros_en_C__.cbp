@@ -8,18 +8,18 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/12_Punteros_en_C++/cmake-build-debug"/>
+				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/ATS_programming/12_Punteros_en_C++/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 all"/>
-					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
-					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 all"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="12_Punteros_en_C__8">
-				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/12_Punteros_en_C++/cmake-build-debug/12_Punteros_en_C__8.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/12_Punteros_en_C++/cmake-build-debug"/>
+				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/ATS_programming/12_Punteros_en_C++/cmake-build-debug/12_Punteros_en_C__8.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/ATS_programming/12_Punteros_en_C++/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="msvc8"/>
@@ -34,15 +34,15 @@
 					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 12_Punteros_en_C__8"/>
-					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
-					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 12_Punteros_en_C__8"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="12_Punteros_en_C__8/fast">
-				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/12_Punteros_en_C++/cmake-build-debug/12_Punteros_en_C__8.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/12_Punteros_en_C++/cmake-build-debug"/>
+				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/ATS_programming/12_Punteros_en_C++/cmake-build-debug/12_Punteros_en_C__8.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/ATS_programming/12_Punteros_en_C++/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="msvc8"/>
@@ -57,15 +57,15 @@
 					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 12_Punteros_en_C__8/fast"/>
-					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
-					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 12_Punteros_en_C__8/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="12_Punteros_en_C__000">
-				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/12_Punteros_en_C++/cmake-build-debug/12_Punteros_en_C__000.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/12_Punteros_en_C++/cmake-build-debug"/>
+				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/ATS_programming/12_Punteros_en_C++/cmake-build-debug/12_Punteros_en_C__000.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/ATS_programming/12_Punteros_en_C++/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="msvc8"/>
@@ -80,15 +80,15 @@
 					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 12_Punteros_en_C__000"/>
-					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
-					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 12_Punteros_en_C__000"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="12_Punteros_en_C__000/fast">
-				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/12_Punteros_en_C++/cmake-build-debug/12_Punteros_en_C__000.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/12_Punteros_en_C++/cmake-build-debug"/>
+				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/ATS_programming/12_Punteros_en_C++/cmake-build-debug/12_Punteros_en_C__000.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/ATS_programming/12_Punteros_en_C++/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="msvc8"/>
@@ -103,15 +103,15 @@
 					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 12_Punteros_en_C__000/fast"/>
-					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
-					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 12_Punteros_en_C__000/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="12_Punteros_en_C__0">
-				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/12_Punteros_en_C++/cmake-build-debug/12_Punteros_en_C__0.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/12_Punteros_en_C++/cmake-build-debug"/>
+				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/ATS_programming/12_Punteros_en_C++/cmake-build-debug/12_Punteros_en_C__0.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/ATS_programming/12_Punteros_en_C++/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="msvc8"/>
@@ -126,15 +126,15 @@
 					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 12_Punteros_en_C__0"/>
-					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
-					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 12_Punteros_en_C__0"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="12_Punteros_en_C__0/fast">
-				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/12_Punteros_en_C++/cmake-build-debug/12_Punteros_en_C__0.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/12_Punteros_en_C++/cmake-build-debug"/>
+				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/ATS_programming/12_Punteros_en_C++/cmake-build-debug/12_Punteros_en_C__0.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/ATS_programming/12_Punteros_en_C++/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="msvc8"/>
@@ -149,15 +149,15 @@
 					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 12_Punteros_en_C__0/fast"/>
-					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
-					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 12_Punteros_en_C__0/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="12_Punteros_en_C__1">
-				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/12_Punteros_en_C++/cmake-build-debug/12_Punteros_en_C__1.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/12_Punteros_en_C++/cmake-build-debug"/>
+				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/ATS_programming/12_Punteros_en_C++/cmake-build-debug/12_Punteros_en_C__1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/ATS_programming/12_Punteros_en_C++/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="msvc8"/>
@@ -172,15 +172,15 @@
 					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 12_Punteros_en_C__1"/>
-					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
-					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 12_Punteros_en_C__1"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="12_Punteros_en_C__1/fast">
-				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/12_Punteros_en_C++/cmake-build-debug/12_Punteros_en_C__1.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/12_Punteros_en_C++/cmake-build-debug"/>
+				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/ATS_programming/12_Punteros_en_C++/cmake-build-debug/12_Punteros_en_C__1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/ATS_programming/12_Punteros_en_C++/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="msvc8"/>
@@ -195,15 +195,15 @@
 					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 12_Punteros_en_C__1/fast"/>
-					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
-					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 12_Punteros_en_C__1/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="12_Punteros_en_C__9">
-				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/12_Punteros_en_C++/cmake-build-debug/12_Punteros_en_C__9.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/12_Punteros_en_C++/cmake-build-debug"/>
+				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/ATS_programming/12_Punteros_en_C++/cmake-build-debug/12_Punteros_en_C__9.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/ATS_programming/12_Punteros_en_C++/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="msvc8"/>
@@ -218,15 +218,15 @@
 					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 12_Punteros_en_C__9"/>
-					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
-					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 12_Punteros_en_C__9"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="12_Punteros_en_C__9/fast">
-				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/12_Punteros_en_C++/cmake-build-debug/12_Punteros_en_C__9.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/12_Punteros_en_C++/cmake-build-debug"/>
+				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/ATS_programming/12_Punteros_en_C++/cmake-build-debug/12_Punteros_en_C__9.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/ATS_programming/12_Punteros_en_C++/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="msvc8"/>
@@ -241,15 +241,15 @@
 					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 12_Punteros_en_C__9/fast"/>
-					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
-					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 12_Punteros_en_C__9/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="12_Punteros_en_C__001">
-				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/12_Punteros_en_C++/cmake-build-debug/12_Punteros_en_C__001.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/12_Punteros_en_C++/cmake-build-debug"/>
+				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/ATS_programming/12_Punteros_en_C++/cmake-build-debug/12_Punteros_en_C__001.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/ATS_programming/12_Punteros_en_C++/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="msvc8"/>
@@ -264,15 +264,15 @@
 					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 12_Punteros_en_C__001"/>
-					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
-					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 12_Punteros_en_C__001"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="12_Punteros_en_C__001/fast">
-				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/12_Punteros_en_C++/cmake-build-debug/12_Punteros_en_C__001.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/12_Punteros_en_C++/cmake-build-debug"/>
+				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/ATS_programming/12_Punteros_en_C++/cmake-build-debug/12_Punteros_en_C__001.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/ATS_programming/12_Punteros_en_C++/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="msvc8"/>
@@ -287,15 +287,15 @@
 					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 12_Punteros_en_C__001/fast"/>
-					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
-					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 12_Punteros_en_C__001/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="12_Punteros_en_C__002">
-				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/12_Punteros_en_C++/cmake-build-debug/12_Punteros_en_C__002.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/12_Punteros_en_C++/cmake-build-debug"/>
+				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/ATS_programming/12_Punteros_en_C++/cmake-build-debug/12_Punteros_en_C__002.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/ATS_programming/12_Punteros_en_C++/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="msvc8"/>
@@ -310,15 +310,15 @@
 					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 12_Punteros_en_C__002"/>
-					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
-					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 12_Punteros_en_C__002"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="12_Punteros_en_C__002/fast">
-				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/12_Punteros_en_C++/cmake-build-debug/12_Punteros_en_C__002.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/12_Punteros_en_C++/cmake-build-debug"/>
+				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/ATS_programming/12_Punteros_en_C++/cmake-build-debug/12_Punteros_en_C__002.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/ATS_programming/12_Punteros_en_C++/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="msvc8"/>
@@ -333,15 +333,15 @@
 					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 12_Punteros_en_C__002/fast"/>
-					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
-					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 12_Punteros_en_C__002/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="12_Punteros_en_C__003">
-				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/12_Punteros_en_C++/cmake-build-debug/12_Punteros_en_C__003.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/12_Punteros_en_C++/cmake-build-debug"/>
+				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/ATS_programming/12_Punteros_en_C++/cmake-build-debug/12_Punteros_en_C__003.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/ATS_programming/12_Punteros_en_C++/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="msvc8"/>
@@ -356,15 +356,15 @@
 					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 12_Punteros_en_C__003"/>
-					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
-					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 12_Punteros_en_C__003"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="12_Punteros_en_C__003/fast">
-				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/12_Punteros_en_C++/cmake-build-debug/12_Punteros_en_C__003.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/12_Punteros_en_C++/cmake-build-debug"/>
+				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/ATS_programming/12_Punteros_en_C++/cmake-build-debug/12_Punteros_en_C__003.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/ATS_programming/12_Punteros_en_C++/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="msvc8"/>
@@ -379,15 +379,15 @@
 					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 12_Punteros_en_C__003/fast"/>
-					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
-					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 12_Punteros_en_C__003/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="12_Punteros_en_C__004">
-				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/12_Punteros_en_C++/cmake-build-debug/12_Punteros_en_C__004.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/12_Punteros_en_C++/cmake-build-debug"/>
+				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/ATS_programming/12_Punteros_en_C++/cmake-build-debug/12_Punteros_en_C__004.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/ATS_programming/12_Punteros_en_C++/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="msvc8"/>
@@ -402,15 +402,15 @@
 					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 12_Punteros_en_C__004"/>
-					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
-					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 12_Punteros_en_C__004"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="12_Punteros_en_C__004/fast">
-				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/12_Punteros_en_C++/cmake-build-debug/12_Punteros_en_C__004.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/12_Punteros_en_C++/cmake-build-debug"/>
+				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/ATS_programming/12_Punteros_en_C++/cmake-build-debug/12_Punteros_en_C__004.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/ATS_programming/12_Punteros_en_C++/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="msvc8"/>
@@ -425,15 +425,15 @@
 					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 12_Punteros_en_C__004/fast"/>
-					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
-					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 12_Punteros_en_C__004/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="12_Punteros_en_C__005">
-				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/12_Punteros_en_C++/cmake-build-debug/12_Punteros_en_C__005.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/12_Punteros_en_C++/cmake-build-debug"/>
+				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/ATS_programming/12_Punteros_en_C++/cmake-build-debug/12_Punteros_en_C__005.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/ATS_programming/12_Punteros_en_C++/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="msvc8"/>
@@ -448,15 +448,15 @@
 					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 12_Punteros_en_C__005"/>
-					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
-					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 12_Punteros_en_C__005"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="12_Punteros_en_C__005/fast">
-				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/12_Punteros_en_C++/cmake-build-debug/12_Punteros_en_C__005.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/12_Punteros_en_C++/cmake-build-debug"/>
+				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/ATS_programming/12_Punteros_en_C++/cmake-build-debug/12_Punteros_en_C__005.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/ATS_programming/12_Punteros_en_C++/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="msvc8"/>
@@ -471,15 +471,15 @@
 					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 12_Punteros_en_C__005/fast"/>
-					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
-					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 12_Punteros_en_C__005/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="12_Punteros_en_C__2">
-				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/12_Punteros_en_C++/cmake-build-debug/12_Punteros_en_C__2.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/12_Punteros_en_C++/cmake-build-debug"/>
+				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/ATS_programming/12_Punteros_en_C++/cmake-build-debug/12_Punteros_en_C__2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/ATS_programming/12_Punteros_en_C++/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="msvc8"/>
@@ -494,15 +494,15 @@
 					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 12_Punteros_en_C__2"/>
-					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
-					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 12_Punteros_en_C__2"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="12_Punteros_en_C__2/fast">
-				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/12_Punteros_en_C++/cmake-build-debug/12_Punteros_en_C__2.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/12_Punteros_en_C++/cmake-build-debug"/>
+				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/ATS_programming/12_Punteros_en_C++/cmake-build-debug/12_Punteros_en_C__2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/ATS_programming/12_Punteros_en_C++/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="msvc8"/>
@@ -517,25 +517,25 @@
 					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 12_Punteros_en_C__2/fast"/>
-					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
-					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 12_Punteros_en_C__2/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/12_Punteros_en_C++/cmake-build-debug"/>
+				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/ATS_programming/12_Punteros_en_C++/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 edit_cache"/>
-					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
-					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 edit_cache"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="12_Punteros_en_C__3">
-				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/12_Punteros_en_C++/cmake-build-debug/12_Punteros_en_C__3.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/12_Punteros_en_C++/cmake-build-debug"/>
+				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/ATS_programming/12_Punteros_en_C++/cmake-build-debug/12_Punteros_en_C__3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/ATS_programming/12_Punteros_en_C++/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="msvc8"/>
@@ -550,15 +550,15 @@
 					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 12_Punteros_en_C__3"/>
-					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
-					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 12_Punteros_en_C__3"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="12_Punteros_en_C__3/fast">
-				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/12_Punteros_en_C++/cmake-build-debug/12_Punteros_en_C__3.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/12_Punteros_en_C++/cmake-build-debug"/>
+				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/ATS_programming/12_Punteros_en_C++/cmake-build-debug/12_Punteros_en_C__3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/ATS_programming/12_Punteros_en_C++/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="msvc8"/>
@@ -573,15 +573,15 @@
 					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 12_Punteros_en_C__3/fast"/>
-					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
-					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 12_Punteros_en_C__3/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="12_Punteros_en_C__11">
-				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/12_Punteros_en_C++/cmake-build-debug/12_Punteros_en_C__11.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/12_Punteros_en_C++/cmake-build-debug"/>
+				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/ATS_programming/12_Punteros_en_C++/cmake-build-debug/12_Punteros_en_C__11.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/ATS_programming/12_Punteros_en_C++/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="msvc8"/>
@@ -596,15 +596,15 @@
 					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 12_Punteros_en_C__11"/>
-					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
-					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 12_Punteros_en_C__11"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="12_Punteros_en_C__11/fast">
-				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/12_Punteros_en_C++/cmake-build-debug/12_Punteros_en_C__11.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/12_Punteros_en_C++/cmake-build-debug"/>
+				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/ATS_programming/12_Punteros_en_C++/cmake-build-debug/12_Punteros_en_C__11.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/ATS_programming/12_Punteros_en_C++/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="msvc8"/>
@@ -619,15 +619,15 @@
 					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 12_Punteros_en_C__11/fast"/>
-					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
-					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 12_Punteros_en_C__11/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="12_Punteros_en_C__4">
-				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/12_Punteros_en_C++/cmake-build-debug/12_Punteros_en_C__4.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/12_Punteros_en_C++/cmake-build-debug"/>
+				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/ATS_programming/12_Punteros_en_C++/cmake-build-debug/12_Punteros_en_C__4.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/ATS_programming/12_Punteros_en_C++/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="msvc8"/>
@@ -642,15 +642,15 @@
 					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 12_Punteros_en_C__4"/>
-					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
-					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 12_Punteros_en_C__4"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="12_Punteros_en_C__4/fast">
-				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/12_Punteros_en_C++/cmake-build-debug/12_Punteros_en_C__4.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/12_Punteros_en_C++/cmake-build-debug"/>
+				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/ATS_programming/12_Punteros_en_C++/cmake-build-debug/12_Punteros_en_C__4.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/ATS_programming/12_Punteros_en_C++/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="msvc8"/>
@@ -665,15 +665,15 @@
 					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 12_Punteros_en_C__4/fast"/>
-					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
-					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 12_Punteros_en_C__4/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="12_Punteros_en_C__10">
-				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/12_Punteros_en_C++/cmake-build-debug/12_Punteros_en_C__10.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/12_Punteros_en_C++/cmake-build-debug"/>
+				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/ATS_programming/12_Punteros_en_C++/cmake-build-debug/12_Punteros_en_C__10.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/ATS_programming/12_Punteros_en_C++/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="msvc8"/>
@@ -688,15 +688,15 @@
 					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 12_Punteros_en_C__10"/>
-					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
-					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 12_Punteros_en_C__10"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="12_Punteros_en_C__10/fast">
-				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/12_Punteros_en_C++/cmake-build-debug/12_Punteros_en_C__10.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/12_Punteros_en_C++/cmake-build-debug"/>
+				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/ATS_programming/12_Punteros_en_C++/cmake-build-debug/12_Punteros_en_C__10.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/ATS_programming/12_Punteros_en_C++/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="msvc8"/>
@@ -711,15 +711,15 @@
 					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 12_Punteros_en_C__10/fast"/>
-					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
-					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 12_Punteros_en_C__10/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="12_Punteros_en_C__5">
-				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/12_Punteros_en_C++/cmake-build-debug/12_Punteros_en_C__5.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/12_Punteros_en_C++/cmake-build-debug"/>
+				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/ATS_programming/12_Punteros_en_C++/cmake-build-debug/12_Punteros_en_C__5.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/ATS_programming/12_Punteros_en_C++/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="msvc8"/>
@@ -734,15 +734,15 @@
 					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 12_Punteros_en_C__5"/>
-					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
-					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 12_Punteros_en_C__5"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="12_Punteros_en_C__5/fast">
-				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/12_Punteros_en_C++/cmake-build-debug/12_Punteros_en_C__5.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/12_Punteros_en_C++/cmake-build-debug"/>
+				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/ATS_programming/12_Punteros_en_C++/cmake-build-debug/12_Punteros_en_C__5.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/ATS_programming/12_Punteros_en_C++/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="msvc8"/>
@@ -757,15 +757,15 @@
 					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 12_Punteros_en_C__5/fast"/>
-					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
-					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 12_Punteros_en_C__5/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="12_Punteros_en_C__6">
-				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/12_Punteros_en_C++/cmake-build-debug/12_Punteros_en_C__6.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/12_Punteros_en_C++/cmake-build-debug"/>
+				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/ATS_programming/12_Punteros_en_C++/cmake-build-debug/12_Punteros_en_C__6.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/ATS_programming/12_Punteros_en_C++/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="msvc8"/>
@@ -780,15 +780,15 @@
 					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 12_Punteros_en_C__6"/>
-					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
-					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 12_Punteros_en_C__6"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="12_Punteros_en_C__6/fast">
-				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/12_Punteros_en_C++/cmake-build-debug/12_Punteros_en_C__6.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/12_Punteros_en_C++/cmake-build-debug"/>
+				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/ATS_programming/12_Punteros_en_C++/cmake-build-debug/12_Punteros_en_C__6.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/ATS_programming/12_Punteros_en_C++/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="msvc8"/>
@@ -803,15 +803,15 @@
 					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 12_Punteros_en_C__6/fast"/>
-					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
-					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 12_Punteros_en_C__6/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="12_Punteros_en_C__12">
-				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/12_Punteros_en_C++/cmake-build-debug/12_Punteros_en_C__12.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/12_Punteros_en_C++/cmake-build-debug"/>
+				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/ATS_programming/12_Punteros_en_C++/cmake-build-debug/12_Punteros_en_C__12.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/ATS_programming/12_Punteros_en_C++/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="msvc8"/>
@@ -826,15 +826,15 @@
 					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 12_Punteros_en_C__12"/>
-					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
-					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 12_Punteros_en_C__12"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="12_Punteros_en_C__12/fast">
-				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/12_Punteros_en_C++/cmake-build-debug/12_Punteros_en_C__12.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/12_Punteros_en_C++/cmake-build-debug"/>
+				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/ATS_programming/12_Punteros_en_C++/cmake-build-debug/12_Punteros_en_C__12.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/ATS_programming/12_Punteros_en_C++/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="msvc8"/>
@@ -849,15 +849,15 @@
 					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 12_Punteros_en_C__12/fast"/>
-					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
-					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 12_Punteros_en_C__12/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="12_Punteros_en_C__7">
-				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/12_Punteros_en_C++/cmake-build-debug/12_Punteros_en_C__7.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/12_Punteros_en_C++/cmake-build-debug"/>
+				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/ATS_programming/12_Punteros_en_C++/cmake-build-debug/12_Punteros_en_C__7.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/ATS_programming/12_Punteros_en_C++/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="msvc8"/>
@@ -872,15 +872,15 @@
 					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 12_Punteros_en_C__7"/>
-					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
-					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 12_Punteros_en_C__7"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="12_Punteros_en_C__7/fast">
-				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/12_Punteros_en_C++/cmake-build-debug/12_Punteros_en_C__7.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/12_Punteros_en_C++/cmake-build-debug"/>
+				<Option output="C:/Users/maxpo/Documentos/Program/Udemy/C++/ATS_programming/12_Punteros_en_C++/cmake-build-debug/12_Punteros_en_C__7.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/ATS_programming/12_Punteros_en_C++/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="msvc8"/>
@@ -895,81 +895,81 @@
 					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 12_Punteros_en_C__7/fast"/>
-					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
-					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 12_Punteros_en_C__7/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/12_Punteros_en_C++/cmake-build-debug"/>
+				<Option working_dir="C:/Users/maxpo/Documentos/Program/Udemy/C++/ATS_programming/12_Punteros_en_C++/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
-					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\12_Punteros_en_C++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/maxpo/Documentos/Program/Udemy/C++/12_Punteros_en_C++/Asignacion_dinamica_de_arreglo.cpp">
+		<Unit filename="C:/Users/maxpo/Documentos/Program/Udemy/C++/ATS_programming/12_Punteros_en_C++/Arreglos_dinamicos.cpp">
 			<Option target="12_Punteros_en_C__001"/>
 		</Unit>
-		<Unit filename="C:/Users/maxpo/Documentos/Program/Udemy/C++/12_Punteros_en_C++/Correspondencia_entre_arrays_y_punteros.cpp">
+		<Unit filename="C:/Users/maxpo/Documentos/Program/Udemy/C++/ATS_programming/12_Punteros_en_C++/Correspondencia_entre_arrays_y_punteros.cpp">
 			<Option target="12_Punteros_en_C__000"/>
 		</Unit>
-		<Unit filename="C:/Users/maxpo/Documentos/Program/Udemy/C++/12_Punteros_en_C++/Declaracion_de_punteros.cpp">
+		<Unit filename="C:/Users/maxpo/Documentos/Program/Udemy/C++/ATS_programming/12_Punteros_en_C++/Declaracion_de_punteros.cpp">
 			<Option target="12_Punteros_en_C__0"/>
 		</Unit>
-		<Unit filename="C:/Users/maxpo/Documentos/Program/Udemy/C++/12_Punteros_en_C++/Ejercicio_1.cpp">
+		<Unit filename="C:/Users/maxpo/Documentos/Program/Udemy/C++/ATS_programming/12_Punteros_en_C++/Ejercicio_1.cpp">
 			<Option target="12_Punteros_en_C__1"/>
 		</Unit>
-		<Unit filename="C:/Users/maxpo/Documentos/Program/Udemy/C++/12_Punteros_en_C++/Ejercicio_10.cpp">
+		<Unit filename="C:/Users/maxpo/Documentos/Program/Udemy/C++/ATS_programming/12_Punteros_en_C++/Ejercicio_10.cpp">
 			<Option target="12_Punteros_en_C__10"/>
 		</Unit>
-		<Unit filename="C:/Users/maxpo/Documentos/Program/Udemy/C++/12_Punteros_en_C++/Ejercicio_11.cpp">
+		<Unit filename="C:/Users/maxpo/Documentos/Program/Udemy/C++/ATS_programming/12_Punteros_en_C++/Ejercicio_11.cpp">
 			<Option target="12_Punteros_en_C__11"/>
 		</Unit>
-		<Unit filename="C:/Users/maxpo/Documentos/Program/Udemy/C++/12_Punteros_en_C++/Ejercicio_12.cpp">
+		<Unit filename="C:/Users/maxpo/Documentos/Program/Udemy/C++/ATS_programming/12_Punteros_en_C++/Ejercicio_12.cpp">
 			<Option target="12_Punteros_en_C__12"/>
 		</Unit>
-		<Unit filename="C:/Users/maxpo/Documentos/Program/Udemy/C++/12_Punteros_en_C++/Ejercicio_2.cpp">
+		<Unit filename="C:/Users/maxpo/Documentos/Program/Udemy/C++/ATS_programming/12_Punteros_en_C++/Ejercicio_2.cpp">
 			<Option target="12_Punteros_en_C__2"/>
 		</Unit>
-		<Unit filename="C:/Users/maxpo/Documentos/Program/Udemy/C++/12_Punteros_en_C++/Ejercicio_3.cpp">
+		<Unit filename="C:/Users/maxpo/Documentos/Program/Udemy/C++/ATS_programming/12_Punteros_en_C++/Ejercicio_3.cpp">
 			<Option target="12_Punteros_en_C__3"/>
 		</Unit>
-		<Unit filename="C:/Users/maxpo/Documentos/Program/Udemy/C++/12_Punteros_en_C++/Ejercicio_4.cpp">
+		<Unit filename="C:/Users/maxpo/Documentos/Program/Udemy/C++/ATS_programming/12_Punteros_en_C++/Ejercicio_4.cpp">
 			<Option target="12_Punteros_en_C__4"/>
 		</Unit>
-		<Unit filename="C:/Users/maxpo/Documentos/Program/Udemy/C++/12_Punteros_en_C++/Ejercicio_5.cpp">
+		<Unit filename="C:/Users/maxpo/Documentos/Program/Udemy/C++/ATS_programming/12_Punteros_en_C++/Ejercicio_5.cpp">
 			<Option target="12_Punteros_en_C__5"/>
 		</Unit>
-		<Unit filename="C:/Users/maxpo/Documentos/Program/Udemy/C++/12_Punteros_en_C++/Ejercicio_6.cpp">
+		<Unit filename="C:/Users/maxpo/Documentos/Program/Udemy/C++/ATS_programming/12_Punteros_en_C++/Ejercicio_6.cpp">
 			<Option target="12_Punteros_en_C__6"/>
 		</Unit>
-		<Unit filename="C:/Users/maxpo/Documentos/Program/Udemy/C++/12_Punteros_en_C++/Ejercicio_7.cpp">
+		<Unit filename="C:/Users/maxpo/Documentos/Program/Udemy/C++/ATS_programming/12_Punteros_en_C++/Ejercicio_7.cpp">
 			<Option target="12_Punteros_en_C__7"/>
 		</Unit>
-		<Unit filename="C:/Users/maxpo/Documentos/Program/Udemy/C++/12_Punteros_en_C++/Ejercicio_8.cpp">
+		<Unit filename="C:/Users/maxpo/Documentos/Program/Udemy/C++/ATS_programming/12_Punteros_en_C++/Ejercicio_8.cpp">
 			<Option target="12_Punteros_en_C__8"/>
 		</Unit>
-		<Unit filename="C:/Users/maxpo/Documentos/Program/Udemy/C++/12_Punteros_en_C++/Ejercicio_9.cpp">
+		<Unit filename="C:/Users/maxpo/Documentos/Program/Udemy/C++/ATS_programming/12_Punteros_en_C++/Ejercicio_9.cpp">
 			<Option target="12_Punteros_en_C__9"/>
 		</Unit>
-		<Unit filename="C:/Users/maxpo/Documentos/Program/Udemy/C++/12_Punteros_en_C++/Matriz_dinamica.cpp">
+		<Unit filename="C:/Users/maxpo/Documentos/Program/Udemy/C++/ATS_programming/12_Punteros_en_C++/Matriz_dinamica.cpp">
 			<Option target="12_Punteros_en_C__004"/>
 		</Unit>
-		<Unit filename="C:/Users/maxpo/Documentos/Program/Udemy/C++/12_Punteros_en_C++/Puntero_a_Estructura.cpp">
+		<Unit filename="C:/Users/maxpo/Documentos/Program/Udemy/C++/ATS_programming/12_Punteros_en_C++/Puntero_a_Estructura.cpp">
 			<Option target="12_Punteros_en_C__005"/>
 		</Unit>
-		<Unit filename="C:/Users/maxpo/Documentos/Program/Udemy/C++/12_Punteros_en_C++/Trasmision_de_arreglos.cpp">
+		<Unit filename="C:/Users/maxpo/Documentos/Program/Udemy/C++/ATS_programming/12_Punteros_en_C++/Trasmision_de_arreglos.cpp">
 			<Option target="12_Punteros_en_C__003"/>
 		</Unit>
-		<Unit filename="C:/Users/maxpo/Documentos/Program/Udemy/C++/12_Punteros_en_C++/Trasmision_de_direcciones.cpp">
+		<Unit filename="C:/Users/maxpo/Documentos/Program/Udemy/C++/ATS_programming/12_Punteros_en_C++/Trasmision_de_direcciones.cpp">
 			<Option target="12_Punteros_en_C__002"/>
 		</Unit>
-		<Unit filename="C:/Users/maxpo/Documentos/Program/Udemy/C++/12_Punteros_en_C++/CMakeLists.txt">
+		<Unit filename="C:/Users/maxpo/Documentos/Program/Udemy/C++/ATS_programming/12_Punteros_en_C++/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

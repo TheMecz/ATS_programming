@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/maxpo/Documentos/Program/Udemy/C++/12_Punteros_en_C++/Puntero_a_Estructura.cpp" "C:/Users/maxpo/Documentos/Program/Udemy/C++/12_Punteros_en_C++/cmake-build-debug/CMakeFiles/12_Punteros_en_C__005.dir/Puntero_a_Estructura.cpp.obj"
+  "C:/Users/maxpo/Documentos/Program/Udemy/C++/ATS_programming/12_Punteros_en_C++/Puntero_a_Estructura.cpp" "C:/Users/maxpo/Documentos/Program/Udemy/C++/ATS_programming/12_Punteros_en_C++/cmake-build-debug/CMakeFiles/12_Punteros_en_C__005.dir/Puntero_a_Estructura.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "MSVC")
 

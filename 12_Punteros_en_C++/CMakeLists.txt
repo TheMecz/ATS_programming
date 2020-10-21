@@ -5,7 +5,7 @@ set(CMAKE_CXX_STANDARD 14)
 
 add_executable(12_Punteros_en_C__0 Declaracion_de_punteros.cpp)
 add_executable(12_Punteros_en_C__000 Correspondencia_entre_arrays_y_punteros.cpp)
-add_executable(12_Punteros_en_C__001 Asignacion_dinamica_de_arreglo.cpp)
+add_executable(12_Punteros_en_C__001 Arreglos_dinamicos.cpp)
 add_executable(12_Punteros_en_C__002 Trasmision_de_direcciones.cpp)
 add_executable(12_Punteros_en_C__003 Trasmision_de_arreglos.cpp)
 add_executable(12_Punteros_en_C__004 Matriz_dinamica.cpp)
