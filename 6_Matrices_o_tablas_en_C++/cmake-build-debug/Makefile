@@ -52,10 +52,10 @@ RM = "C:\Program Files\JetBrains\CLion 2020.2.3\bin\cmake\win\bin\cmake.exe" -E 
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\maxpo\Documentos\Program\Udemy\C++\6_Matrices_o_tablas_en_C++
+CMAKE_SOURCE_DIR = C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\6_Matrices_o_tablas_en_C++
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\maxpo\Documentos\Program\Udemy\C++\6_Matrices_o_tablas_en_C++\cmake-build-debug
+CMAKE_BINARY_DIR = C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\6_Matrices_o_tablas_en_C++\cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -84,9 +84,9 @@ edit_cache\fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\maxpo\Documentos\Program\Udemy\C++\6_Matrices_o_tablas_en_C++\cmake-build-debug\CMakeFiles C:\Users\maxpo\Documentos\Program\Udemy\C++\6_Matrices_o_tablas_en_C++\cmake-build-debug\CMakeFiles\progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\6_Matrices_o_tablas_en_C++\cmake-build-debug\CMakeFiles C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\6_Matrices_o_tablas_en_C++\cmake-build-debug\CMakeFiles\progress.marks
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 /nologo -$(MAKEFLAGS) all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\maxpo\Documentos\Program\Udemy\C++\6_Matrices_o_tablas_en_C++\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\maxpo\Documentos\Program\Udemy\C++\ATS_programming\6_Matrices_o_tablas_en_C++\cmake-build-debug\CMakeFiles 0
 .PHONY : all
 
 # The main clean target

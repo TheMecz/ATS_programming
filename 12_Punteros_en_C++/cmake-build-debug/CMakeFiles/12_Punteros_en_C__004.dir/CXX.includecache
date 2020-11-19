@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/maxpo/Documentos/Program/Udemy/C++/ATS_programming/12_Punteros_en_C++/Matriz_dinamica.cpp
+iostream
+-
+stdlib.h
+-
+

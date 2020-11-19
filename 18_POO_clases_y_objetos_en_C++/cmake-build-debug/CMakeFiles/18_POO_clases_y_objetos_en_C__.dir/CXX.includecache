@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/maxpo/Documentos/Program/Udemy/C++/ATS_programming/18_POO_clases_y_objetos_en_C++/Punto.h
+
+C:/Users/maxpo/Documentos/Program/Udemy/C++/ATS_programming/18_POO_clases_y_objetos_en_C++/main.cpp
+iostream
+-
+Punto.h
+C:/Users/maxpo/Documentos/Program/Udemy/C++/ATS_programming/18_POO_clases_y_objetos_en_C++/Punto.h
+
